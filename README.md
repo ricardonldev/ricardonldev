@@ -10,7 +10,7 @@ I work with AI (Claude Code) and say so openly. What I add is the part the gener
 **[WhatsApp cost calculator](https://ricardonldev.github.io/whatsapp-cost-calculator/)**: from 1 Oct 2026 Meta charges the replies businesses send inside the 24-hour window. This shows what that does to your bill, with Meta's official EUR rates, and how much you save by answering with fewer messages. ([code](https://github.com/ricardonldev/whatsapp-cost-calculator))
 `JavaScript` `WhatsApp Business Platform` `tested pricing rules`
 
-**[papeleoclaro.com](https://papeleoclaro.com)**: my own production website, which I build and run.
+**[papeleoclaro.com](https://papeleoclaro.com)**: my own production website, which I build and run. 43 paperwork calculators, Lighthouse 96-100 on mobile. ([technical overview](https://github.com/ricardonldev/papeleoclaro-tech))
 `Astro` `Tailwind` `Cloudflare Workers` `technical SEO` `JSON-LD` `PWA`
 
 #### Tools I use
