@@ -1,5 +1,3 @@
-### Hi, I'm Ricardo 👋
-
 I'm a developer in Madrid. I fix and ship apps that were built with AI tools (Lovable, Bolt, v0, Cursor) once they hit real users: broken auth, database rules that leak data, builds that won't deploy. I also build automations with n8n.
 
 I work with AI (Claude Code) and say so openly. What I add is the part the generators skip: reading the code, **proving** what's wrong before touching it, and testing that the fix holds.
