@@ -19,4 +19,4 @@ TypeScript · JavaScript · React · Supabase / PostgreSQL · Node · Python · 
 #### How I work
 Fixed scope and price agreed before starting · changes on a separate branch · nothing touches production without an OK · every delivery comes with a report of what changed and how to verify it.
 
-<sub>🇪🇸 Hablo español (nativo) e inglés.</sub>
+<sub>Hablo español (nativo) e inglés.</sub>
