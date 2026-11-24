@@ -1,4 +1,4 @@
-I'm a developer in Madrid. I fix and ship apps that were built with AI tools (Lovable, Bolt, v0, Cursor) once they hit real users: broken auth, database rules that leak data, builds that won't deploy. I also build automations with n8n.
+I'm a developer in Madrid. I work on apps built with AI tools (Lovable, Bolt, v0, Cursor) and the problems they hit with real users: broken auth, database rules that leak data, builds that won't deploy. I also build automations with n8n.
 
 I work with AI (Claude Code) and say so openly. What I add is the part the generators skip: reading the code, **proving** what's wrong before touching it, and testing that the fix holds.
 
@@ -15,8 +15,5 @@ I work with AI (Claude Code) and say so openly. What I add is the part the gener
 
 #### Tools I use
 TypeScript · JavaScript · React · Supabase / PostgreSQL · Node · Python · n8n · Astro · Cloudflare · Git
-
-#### How I work
-Fixed scope and price agreed before starting · changes on a separate branch · nothing touches production without an OK · every delivery comes with a report of what changed and how to verify it.
 
 <sub>Hablo español (nativo) e inglés.</sub>
